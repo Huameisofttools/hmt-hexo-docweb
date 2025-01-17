@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: HMT BLOGS
-subtitle: 'Huamei 365® D365F&O Tools Blogs'
-description: 'The blogs for Huamei 365® D365F&O Tools'
+title: Huamei Industry
+subtitle: 'Huamei 365® industry'
+description: 'The blogs for Huamei Soft'
 keywords:
 author: Willie Yao
 language: en
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: one-paper
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
